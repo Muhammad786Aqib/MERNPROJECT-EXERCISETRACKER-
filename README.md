@@ -10,3 +10,10 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
   },
+  
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.1"
+  }
